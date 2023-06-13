@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Omar Gil Gastelum</h1>
-<h3 align="center">hoy amanecí con el ego de que el madrugador madruga, yo lo ayudo.</ h3>
+<h3 align="center">Al que madruga lo ayudo yo.</ h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel .app/?username=omargastel" alt="omargastel" /></a> </p>
 
